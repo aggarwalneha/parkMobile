@@ -1,0 +1,4 @@
+#TestMethod = Test data scenario name
+Login_Success = Success Login
+StartParkingByHours = StartParking By Hours As Duration
+StartParkingByMinutes = StartParking By Minutes As Duration
